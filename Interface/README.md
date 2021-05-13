@@ -1,2 +1,4 @@
-# Shopping
-尝试搭建一套完整的电商系统
+# 接口层
+
+业务层使用Python+Tornado编写
+
